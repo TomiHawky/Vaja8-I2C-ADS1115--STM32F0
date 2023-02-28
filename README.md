@@ -15,3 +15,5 @@ STM32CubeIDE v Debug načinu).
  6. 6.144V
  
  
+![Posnetek zaslona 2023-02-28 085711](https://user-images.githubusercontent.com/97598187/221790786-ab354530-127f-41f4-9d30-072b6241709a.png)
+![Posnetek zaslona 2023-02-28 085638](https://user-images.githubusercontent.com/97598187/221790788-aab8f536-210d-4de6-b7ff-39fc147b6fae.png)
