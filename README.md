@@ -12,3 +12,6 @@ STM32CubeIDE v Debug načinu).
     | STM32F0:  | PB6 | PB7 | GND  | (ni povezan) | 5 ALI 3.3V |
  4. Frekvenca znaša 400 KHz
  5. 1001000 bin = 0x48 HEX
+ 6. 6.144V
+ 
+ 
